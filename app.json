@@ -14,7 +14,7 @@
       "value": "public"
     },
      "OWNER_NAME": {
-      "description": "put your owner name here,
+      "description": "put your owner name here",
       "required": true,
       "value": "Ray thee bandit"
     },
