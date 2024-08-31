@@ -14,14 +14,14 @@
       "value": "public"
     },
      "OWNER_NAME": {
-      "description": "Put the name of Bot Owner",
+      "description": "put your owner name here,
       "required": true,
-      "value": "GIFTED TECH"
+      "value": "Ray thee bandit"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254110853827"
+      "value": "254791195553"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -31,7 +31,7 @@
     "SESSION_ID": {
       "description": "Put your SESSION_ID.  Must start with Gifted~",
       "required": true,
-      "value": ""
+      "value": "Gifted~wSHUkeuM"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -51,7 +51,7 @@
     "AUTO_READ": {
       "description": "Put true if you want bot to read message",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_TYPING": {
       "description": "Put true if you want bot to show typing",
